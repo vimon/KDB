@@ -1,0 +1,1 @@
+run cmd as administrator. Then type " cd C:\Program Files\McAfee\Common Framework" enter. Then type "frminst.exe /remove=agent" enter

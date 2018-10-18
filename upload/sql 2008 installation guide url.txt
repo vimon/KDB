@@ -1,0 +1,4 @@
+Paste below url in browser and flow the each and every steps.
+
+
+http://blog.sqlauthority.com/2008/06/12/sql-server-2008-step-by-step-installation-guide-with-images/

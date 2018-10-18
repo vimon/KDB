@@ -1,0 +1,6 @@
+(1)Run -->type devmgmt.msc
+(2)right click and click update driver software
+(3)click from online
+(4)disable proxy settings 
+(5)conncet to wifi
+(6) start from step 1.
